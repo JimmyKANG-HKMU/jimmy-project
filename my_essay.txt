@@ -1,3 +1,4 @@
 This is my new first paragraph.
 This is my second paragraph.
 xxx lalalal
+This is new paragraph revised via GitHub.
