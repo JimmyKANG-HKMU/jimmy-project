@@ -1,1 +1,2 @@
 This is my new first paragraph.
+This is my second paragraph.
